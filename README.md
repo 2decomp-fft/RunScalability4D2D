@@ -73,6 +73,6 @@ The `.out` file with all the timing will have the same root name and will be loc
 For the whole procedure to work an enviromental variable with the path to the 2DECOMP&FFT build needs to be provided as
 
 ```
-$ export export D2D_build_path=$path_to_build_directory
+$ export D2D_build_path=$path_to_build_directory
 ```
  
